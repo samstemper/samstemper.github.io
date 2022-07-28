@@ -10,7 +10,5 @@ paperurl: 'https://www.nber.org/papers/w29921'
 ---
 
 [Download paper here](https://samstemper.github.io/files/saudi_skills.pdf)
-
 NBER Working Paper 29921
-
 with [Ina Ganguili](https://blogs.umass.edu/iganguli/), [Jamal I. Haidar](https://scholar.harvard.edu/haidar/home), [Asim Ijaz Khwaja](https://khwaja.scholar.harvard.edu/), and [Basit Zafar](https://sites.google.com/site/basitakzafar/) 
