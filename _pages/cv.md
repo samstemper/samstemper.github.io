@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Here is a link to <u><a href="{{google.com}}">my CV</a>.</u>
+Here is a link to [my CV](https://google.com/).
