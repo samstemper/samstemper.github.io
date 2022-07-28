@@ -1,7 +1,7 @@
 ---
 title: "Economic Shocks and Skill Acquisition: Evidence from a National Online Learning Platform at the Onset of COVID-19"
 collection: research
-permalink: /research/saudi_skills
+#permalink: /research/saudi_skills
 #excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 #date: 2015-10-01
 venue: 'NBER Working Paper 29921'
