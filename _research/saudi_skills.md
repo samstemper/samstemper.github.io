@@ -11,6 +11,4 @@ paperurl: 'https://www.nber.org/papers/w29921'
 
 with Ina Ganguili, Jamal I. Haidar, Asim Ijaz Khwaja, and Basit Zafar
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
-
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+[Download paper here](https://samstemper.github.io/saudi_skills.pdf)
