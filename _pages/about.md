@@ -12,4 +12,4 @@ Sam Stemper is a sixth-year Ph.D. candidate at Harvard University in the Economi
 
 Sam is an EPoD affilliate whose work has been supported by JPAL and IQSS. As an instructor, Sam has taught Masters and undergraduates and received numerous teaching awards.
 
-He will be avaialble for interviews.
+He is on the 2022-23 job market and will be avaialble for interviews.
