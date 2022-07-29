@@ -7,9 +7,9 @@ author_profile: true
 
 **Superintendents**. 2022. *Job Market Paper*
 
-**School Segregation, Student Achievement, and Parental Preferences**. 2022. <br/> <small>[ <a href="#/" onclick="visib('saudi_skills')">Abstract</a> | [Draft][school_boundaries] ]</small>
+**School Segregation, Student Achievement, and Parental Preferences**. 2022. <br/> <small>[ <a href="#/" onclick="visib('school_boundaries')">Abstract</a> | [Draft][school_boundaries] ]</small>
 
-<div id="saudi_skills" style="display: none; text-align: justify; line-height: 1.2" ><small>
+<div id="school_boundaries" style="display: none; text-align: justify; line-height: 1.2" ><small>
 For most American K-12 students, where you live determines where you go to school. At the local level, school assignment is dictated by school attendance zones: boundaries that assign households to schools. I use geospatial data on the boundaries used to assign over 10 million public school students across 1,401 districts to identify changes in school assignment and estimate how these changes affect school segregation, student achievement, and neighborhood house prices. Comparing districts that impose integrative versus segregationary rezoning schemes shows that rezoning decisions can change segregation substantially, and that reductions in segregation narrow test score gaps between White and Black students. I find evidence of that house prices fall in neighborhoods that are newly-assigned to schools with higher shares of Black and Hispanic students.
 </small><br><br/></div>
 
