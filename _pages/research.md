@@ -7,14 +7,18 @@ author_profile: true
 
 **School Segregation, Student Achievement, and Parental Preferences**
 
+**Budget Hawks on the Board: School Boards, Education Finance, and Student Achievement**. 2022.
+
 **Economic Shocks and Skill Acquisition: Evidence from a National Online Learning Platform at the Onset of COVID-19** (with [Ina Ganguili](https://blogs.umass.edu/iganguli/), [Jamal I. Haidar](https://scholar.harvard.edu/haidar/home), [Asim Ijaz Khwaja](https://khwaja.scholar.harvard.edu/), and [Basit Zafar](https://sites.google.com/site/basitakzafar/)). 2022. <br/>
-<small>[ <a href="#/" onclick="visib('saudi_skills')">Abstract</a> | [Draft][saudi_skills] ]</small>
+<small>[ <a href="#/" onclick="visib('saudi_skills')">Abstract</a> | [Draft][saudi_skills] | [NBER WP 29921][saudi_skills_nber] ]</small>
 
 <div id="saudi_skills" style="display: none; text-align: justify; line-height: 1.2" ><small>
 We study how large shocks impact individuals’ skilling decisions using data from the largest online learning platform in Saudi Arabia. The onset of the COVID-19 pandemic brought about a massive increase in online skilling, and demand shifted towards courses that offered skills, such as telework, likely to be immediately valuable during the pandemic. Consistent with a model where individuals trade off reskilling costs with their expectations of future labor market conditions and their duration of work, we find that shifts into telework courses were largest for older workers. In contrast, younger workers increased enrollments in courses related to new skills, such as general, occupation-specific, and computer-related skills. Using national administrative employment data, we provide suggestive evidence that these investments in skills in early 2020 helped users maintain employment over the course of the pandemic.
 </small><br><br/></div>
 
 [saudi_skills]:{{ site.baseurl }}{% link files/saudi_skills.pdf %}
+
+[saudi_skills_nber]: https://www.nber.org/papers/w29921
 
 
 [//]: This java script is the button to show abstract
