@@ -8,7 +8,7 @@ collection: research
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 permalink: /research/school_boundaries
 ---
-
+** **
 
 [Download paper here](https://samstemper.github.io/files/school_boundaries.pdf)
 
