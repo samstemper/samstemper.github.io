@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-**ECON 59b: Economics of Education**. Undergraduate Course. Spring 2022, Brandeis University Department of Economics. *Instructor and Adjunct Professor*.\
+**ECON 59b: Economics of Education**. Undergraduate Course. Spring 2022, Brandeis University Department of Economics. *Instructor and Adjunct Professor*.<br/>
 - <small>Average Course Rating: 4.82/5
 
 **ECON 985: Economics Senior Thesis Research Seminar in Education, Data Science, Public Economics, and Applied Microeconomics**. Undergraduate Course. Fall 2021-Spring 2022, Harvard Unversity Department of Economics. *Instructor*. 
