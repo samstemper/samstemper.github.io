@@ -10,7 +10,7 @@ venue: 'NBER Working Paper 29921'
 paperurl: 'https://www.nber.org/papers/w29921'
 ---
 
-[Download paper here](https://samstemper.github.io/files/saudi_skills.pdf)
+[PDF](https://samstemper.github.io/files/saudi_skills.pdf)
 
 [NBER Working Paper 29921](https://www.nber.org/papers/w29921)
 
