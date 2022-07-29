@@ -12,4 +12,4 @@ Welcome to my website! I am a sixth-year Ph.D. candidate at Harvard University i
 
 While at Harvard, my work has been supported by the [Institute for Quantitative Social Science](https://www.iq.harvard.edu/) and the [Abdul Latif Jameel Poverty Action Lab](https://www.povertyactionlab.org/). As an instructor, I have taught Masters and undergraduate students and received numerous teaching awards.
 
-I am on the 2022-23 job market and will be avaialble for interviews.
+I am on the 2022-23 job market and will be available for interviews.
