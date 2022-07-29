@@ -5,6 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
+<p>...</p>
 **ECON 59b: Economics of Education**. Undergraduate Course. Spring 2022, Brandeis University Department of Economics. *Instructor and Adjunct Professor*.<br/>
 - <small>Average Course Rating: 4.82/5
 
