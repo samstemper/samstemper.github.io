@@ -15,7 +15,13 @@ For most American K-12 students, where you live determines where you go to schoo
 
 [school_boundaries]:{{ site.baseurl }}{% link files/school_boundaries.pdf %}
 
-**Budget Hawks on the Board: School Boards, Education Finance, and Student Achievement**. 2022.
+**Budget Hawks on the Board: School Boards, Education Finance, and Student Achievement**. 2022. <br/> <small>[ <a href="#/" onclick="visib('school_boards')">Abstract</a> | [Draft][school_boards] ]</small>
+
+<div id="school_boards" style="display: none; text-align: justify; line-height: 1.2" ><small>
+Abstract in progress...
+</small><br><br/></div>
+
+[school_boards]:{{ site.baseurl }}{% link files/school_boundaries.pdf %}
 
 **Economic Shocks and Skill Acquisition: Evidence from a National Online Learning Platform at the Onset of COVID-19** (with [Ina Ganguili](https://blogs.umass.edu/iganguli/), [Jamal I. Haidar](https://scholar.harvard.edu/haidar/home), [Asim Ijaz Khwaja](https://khwaja.scholar.harvard.edu/), and [Basit Zafar](https://sites.google.com/site/basitakzafar/)). 2022. <br/>
 <small>[ <a href="#/" onclick="visib('saudi_skills')">Abstract</a> | [Draft][saudi_skills] | [NBER WP 29921][saudi_skills_nber] ]</small>
