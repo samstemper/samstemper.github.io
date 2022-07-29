@@ -9,8 +9,7 @@ author_profile: true
 - Average Course Rating: 4.82/5
 </p>
 
-**ECON 985: Economics Senior Thesis Research Seminar in Education, Data Science, Public Economics, and Applied Microeconomics**. Undergraduate Course. Fall 2021-Spring 2022, Harvard Unversity Department of Economics. *Instructor*. 
-<br/> - Average Course Rating: 4.86/5 (Fall), 4.83/5 (Spring)</small> 
+**ECON 985: Economics Senior Thesis Research Seminar in Education, Data Science, Public Economics, and Applied Microeconomics**. Undergraduate Course. Fall 2021-Spring 2022, Harvard Unversity Department of Economics. *Instructor*. <br/> + Average Course Rating: 4.86/5 (Fall), 4.83/5 (Spring)</small> 
 <br/> - <small>Harvard University Distinction in Teaching Award</small>
 
 **API 102a: Economic Analysis of Public Policy**. MPP Course. Spring 2021, Harvard Kennedy School. *Teaching Fellow for [Mark Shepard](https://scholar.harvard.edu/mshepard/home)*. <br/>
