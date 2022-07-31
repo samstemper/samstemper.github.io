@@ -5,7 +5,8 @@ permalink: /research/
 author_profile: true
 ---
 
-**Superintendents**. 2022. *Job Market Paper*
+**Doing More with Less: School Management and Education Production**. 2022. *Job Market Paper*
+<br/> <small>[ Draft Coming Soon! ]</small>
 
 **School Segregation, Student Achievement, and Parental Preferences**. 2022. <br/> <small>[ <a href="#/" onclick="visib('school_boundaries')">Abstract</a> | [Draft][school_boundaries] ]</small>
 
@@ -15,10 +16,10 @@ For most American K-12 students, where you live determines where you go to schoo
 
 [school_boundaries]:{{ site.baseurl }}{% link files/school_boundaries.pdf %}
 
-**Budget Hawks on the Board: School Boards, Education Finance, and Student Achievement**. 2022. <br/> <small>[ <a href="#/" onclick="visib('school_boards')">Abstract</a> | [Draft][school_boards] ]</small>
+**Budget Hawks on the Board: School Boards, Education Finance, and Student Achievement**. 2022. <br/> <small>[ <a href="#/" onclick="visib('school_boards')">Abstract</a> | Draft Coming Soon! ]</small>
 
 <div id="school_boards" style="display: none; text-align: justify; line-height: 1.2" ><small>
-Abstract in progress...
+Funding for education in America is spread across multiple levels of government, but financial decision-making is handled by locally elected school boards. During elections, many candidates for board seats run on promises of reforming district finances. I identify such "budget hawks" using natural language processing methods and campaign statements from school board candidates in California. I use a regression discontinuity design to test how district outcomes evolve in the years following the narrow victory of a hawk over a non-hawk. The election of a budget hawk leads to large cuts in district capital spending in the short-run and long-run reductions in operational spending. I find suggestive evidence that students in these districts exhibit lower rates of test-based proficiency in subsequent years. Heterogeneity analysese suggest that districts that exhibit higher reductions in spending experience larger test score declines. 
 </small><br><br/></div>
 
 [school_boards]:{{ site.baseurl }}{% link files/school_boundaries.pdf %}
