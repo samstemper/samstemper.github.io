@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Please find my CV below, or [linked here for download]("{{ site.baseurl }}/files/cv.pdf").
+
+
 <embed src="{{ site.baseurl }}/files/cv.pdf" width="600" height="700" type='application/pdf'> 
 
-Here is a link to [my CV]("{{ site.baseurl }}/files/cv.pdf").
