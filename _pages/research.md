@@ -22,7 +22,7 @@ For most American K-12 students, where you live determines where you go to schoo
 Funding for education in America is spread across multiple levels of government, but financial decision-making is handled by locally elected school boards. During elections, many candidates for board seats run on promises of reforming district finances. I identify such "budget hawks" using natural language processing methods and campaign statements from school board candidates in California. I use a regression discontinuity design to test how district outcomes evolve in the years following the narrow victory of a hawk over a non-hawk. The election of a budget hawk leads to large and prolonged cuts in district spending. Using test score data, I find suggestive evidence that students in these districts exhibit lower rates of test-based proficiency in subsequent years. Heterogeneity analyses show evidence that districts that exhibit higher reductions in spending experience larger test score declines.
 </small><br><br/></div>
 
-[school_boards]:{{ site.baseurl }}{% link files/school_boardss.pdf %}
+[school_boards]:{{ site.baseurl }}{% link files/school_boards.pdf %}
 
 **Economic Shocks and Skill Acquisition: Evidence from a National Online Learning Platform at the Onset of COVID-19** (with [Ina Ganguili](https://blogs.umass.edu/iganguli/), [Jamal I. Haidar](https://scholar.harvard.edu/haidar/home), [Asim Ijaz Khwaja](https://khwaja.scholar.harvard.edu/), and [Basit Zafar](https://sites.google.com/site/basitakzafar/)). 2022. <br/>
 <small>[ <a href="#/" onclick="visib('saudi_skills')">Abstract</a> | [Draft][saudi_skills] | [NBER WP 29921][saudi_skills_nber] ]</small>
