@@ -6,7 +6,14 @@ author_profile: true
 ---
 
 **Doing More with Less: School Management and Education Production**. 2022. *Job Market Paper*
-<br/> <small>[ Draft Coming Soon! ]</small>
+<br/> <small> [Draft][jmp] ]</small>
+
+<div id="jmp" style="display: none; text-align: justify; line-height: 1.2" ><small>
+The school superintendent is the highest-ranking executive in U.S. school districts, responsible for managing personnel decisions and overseeing regular school operations. To estimate the causal effect of superintendents on district performance, I collect data on the tenures of over 18,000 school superintendents covering over half of American public school children using a model of test score value-added that allows a superintendent’s effect to emerge over the course of their tenure within a district. Superintendent transitions between districts are leveraged to validate these estimates and to identify common practices of effective superintendents. I show that superintendents have large effects on school district performance, accounting for one-
+fourth of the observed differences in learning rates across districts. Top management matters most in districts where managerial flexibility is ex-ante largest: smaller districts and districts with weaker teachers unions. Effective superintendents do not change levels of district spending or staffing but instead make changes in school operations, increasing teacher turnover and reducing teacher absences. Finally, I find evidence that the link between value-added and salary for superintendents is strongest in districts with higher levels of local interdistrict competition.
+</small><br><br/></div>
+
+[jmp]:{{ site.baseurl }}{% link files/stemper_jmp.pdf %}
 
 **School Segregation, Student Achievement, and Parental Preferences**. 2022. <br/> <small>[ <a href="#/" onclick="visib('school_boundaries')">Abstract</a> | [Draft][school_boundaries] ]</small>
 
