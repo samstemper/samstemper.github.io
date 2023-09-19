@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sam Stemper"
 title_separator          : "-"
 name                     : &name "Sam Stemper"
-description              : &description "PhD Candidate, Harvard Kennedy School"
+description              : &description "Lecturer (Assistant Professor), University of Auckland"
 url                      : https://samstemper.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Sam Stemper"
   avatar           : "stemper_headshot_square.png"
-  bio              : "PhD Candidate, Public Policy (Economics Track) Harvard Kennedy School"
-  location         : "Cambridge, MA"
+  bio              : "Lecturer (Assistant Professor), University of Auckland"
+  location         : "Auckland, NZ"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "stemper@g.harvard.edu"
+  email            : "sam.stemper@auckland.ac.nz"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
