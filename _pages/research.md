@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-**Doing More with Less: School Management and Education Production**. 2022. <br/> <small>[ <a href="#/" onclick="visib('jmp')">Abstract</a> | [Draft][jmp] ]</small>
+**Doing More with Less: School Management and Education Production**. <br/> <small>[ <a href="#/" onclick="visib('jmp')">Abstract</a> | [Draft][jmp] ]</small>
 
 <div id="jmp" style="display: none; text-align: justify; line-height: 1.2" ><small>
 The school superintendent is the highest-ranking executive in U.S. school districts, responsible for managing personnel decisions and overseeing regular school operations. To estimate the causal effect of superintendents on district performance, I collect data on the tenures of over 18,000 school superintendents covering over half of American public school children using a model of test score value-added that allows a superintendent’s effect to emerge over the course of their tenure within a district. Superintendent transitions between districts are leveraged to validate these estimates and to identify common practices of effective superintendents. I show that superintendents have large effects on school district performance, accounting for one-
@@ -14,7 +14,7 @@ fourth of the observed differences in learning rates across districts. Top manag
 
 [jmp]:{{ site.baseurl }}{% link files/stemper_jmp.pdf %}
 
-**School Segregation, Student Achievement, and Parental Preferences**. 2022. <br/> <small>[ <a href="#/" onclick="visib('school_boundaries')">Abstract</a> | [Draft][school_boundaries] ]</small>
+**School Segregation, Student Achievement, and Parental Preferences**. <br/> <small>[ <a href="#/" onclick="visib('school_boundaries')">Abstract</a> | [Draft][school_boundaries] ]</small>
 
 <div id="school_boundaries" style="display: none; text-align: justify; line-height: 1.2" ><small>
 For most American K-12 students, where you live determines where you go to school. At the local level, school assignment is dictated by school attendance zones: boundaries that assign households to schools. I use geospatial data on the boundaries used to assign over 10 million public school students across 1,401 districts to identify changes in school assignment and estimate how these changes affect school segregation, student achievement, and neighborhood house prices. Comparing districts that impose integrative versus segregationary rezoning schemes shows that rezoning decisions can change segregation substantially, and that reductions in segregation narrow test score gaps between White and Black students. I find evidence that house prices fall in neighborhoods that are newly-assigned to schools with higher shares of Black and Hispanic students.
@@ -22,7 +22,7 @@ For most American K-12 students, where you live determines where you go to schoo
 
 [school_boundaries]:{{ site.baseurl }}{% link files/school_boundaries.pdf %}
 
-**Budget Hawks on the Board: School Boards, Education Finance, and Student Achievement**. 2022. <br/> <small>[ <a href="#/" onclick="visib('school_boards')">Abstract</a> | [Draft][school_boards] ]</small>
+**Budget Hawks on the Board: School Boards, Education Finance, and Student Achievement**. <br/> <small>[ <a href="#/" onclick="visib('school_boards')">Abstract</a> | [Draft][school_boards] ]</small>
 
 <div id="school_boards" style="display: none; text-align: justify; line-height: 1.2" ><small>
 Funding for education in America is spread across multiple levels of government, but financial decision-making is handled by locally elected school boards. During elections, many candidates for board seats run on promises of reforming district finances. I identify such "budget hawks" using natural language processing methods and campaign statements from school board candidates in California. I use a regression discontinuity design to test how district outcomes evolve in the years following the narrow victory of a hawk over a non-hawk. The election of a budget hawk leads to large and prolonged cuts in district spending. Using test score data, I find suggestive evidence that students in these districts exhibit lower rates of test-based proficiency in subsequent years. Heterogeneity analyses show evidence that districts that exhibit higher reductions in spending experience larger test score declines. 
@@ -30,7 +30,7 @@ Funding for education in America is spread across multiple levels of government,
 
 [school_boards]:{{ site.baseurl }}{% link files/school_boards.pdf %}
 
-**Economic Shocks and Skill Acquisition: Evidence from a National Online Learning Platform at the Onset of COVID-19** (with [Ina Ganguili](https://blogs.umass.edu/iganguli/), [Jamal I. Haidar](https://scholar.harvard.edu/haidar/home), [Asim Ijaz Khwaja](https://khwaja.scholar.harvard.edu/), and [Basit Zafar](https://sites.google.com/site/basitakzafar/)). 2022. _Revise and Resubmit at Labour Economics_ <br/>
+**Economic Shocks and Skill Acquisition: Evidence from a National Online Learning Platform at the Onset of COVID-19** (with [Ina Ganguili](https://blogs.umass.edu/iganguli/), [Jamal I. Haidar](https://scholar.harvard.edu/haidar/home), [Asim Ijaz Khwaja](https://khwaja.scholar.harvard.edu/), and [Basit Zafar](https://sites.google.com/site/basitakzafar/)). _Revise and Resubmit at Labour Economics_ <br/>
 <small>[ <a href="#/" onclick="visib('saudi_skills')">Abstract</a> | [Draft][saudi_skills] | [NBER WP 29921][saudi_skills_nber] ]</small>
 
 <div id="saudi_skills" style="display: none; text-align: justify; line-height: 1.2" ><small>
