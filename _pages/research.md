@@ -14,6 +14,14 @@ fourth of the observed differences in learning rates across districts. Top manag
 
 [jmp]:{{ site.baseurl }}{% link files/stemper_jmp.pdf %}
 
+**3G Internet and Human Capital Development** (with [Ronak Jain](https://www.ronak-jain.com/home)). <br/> <small>[ <a href="#/" onclick="visib('3g_human_capital')">Abstract</a> | [Draft][3g_human_capital] ]</small>
+
+<div id="3g_human_capital" style="display: none; text-align: justify; line-height: 1.2" ><small>
+We study the impact of global expansions in mobile internet access between 2000 and 2018 on student outcomes. We link geospatial data on the rollout of 3G mobile technology with over 2 million student test scores from 82 countries. Our findings indicate that the introduction of 3G coverage leads to substantial increases in smartphone ownership and internet usage among adolescents. Moreover, changes in 3G coverage are associated with significant declines in test scores across all subjects, with magnitudes roughly equivalent to the loss of one-quarter of a year of learning. We find suggestive evidence that a reduction in feelings of belonging, ease of making friends, and self-efficacy may explain these impacts.
+</small><br><br/></div>
+
+[jmp]:{{ site.baseurl }}{% link files/3g_human_capital.pdf %}
+
 **School Segregation, Student Achievement, and Parental Preferences**. <br/> <small>[ <a href="#/" onclick="visib('school_boundaries')">Abstract</a> | [Draft][school_boundaries] ]</small>
 
 <div id="school_boundaries" style="display: none; text-align: justify; line-height: 1.2" ><small>
