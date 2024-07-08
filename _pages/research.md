@@ -5,7 +5,8 @@ permalink: /research/
 author_profile: true
 ---
 
-**__Publications__**
+
+<span style="font-size: 1.2em; font-weight: bold;">Publications</span>
 
 **Economic Shocks and Skill Acquisition: Evidence from a National Online Learning Platform at the Onset of COVID-19** (with [Ina Ganguili](https://blogs.umass.edu/iganguli/), [Jamal I. Haidar](https://scholar.harvard.edu/haidar/home), [Asim Ijaz Khwaja](https://khwaja.scholar.harvard.edu/), and [Basit Zafar](https://sites.google.com/site/basitakzafar/)). Labour Economics, Vol. 90, 2024.  <br/>
 <small>[ <a href="#/" onclick="visib('saudi_skills')">Abstract</a> | [Draft][saudi_skills] | [NBER WP 29921][saudi_skills_nber] ]</small>
@@ -18,7 +19,7 @@ We study how large shocks impact individuals’ skilling decisions using data fr
 
 [saudi_skills_nber]: https://www.nber.org/papers/w29921
 
-**__Working Papers__**
+<span style="font-size: 1.2em; font-weight: bold;">Working Papers</span>
 
 **Doing More with Less: School Management and Education Production**. <br/> <small>[ <a href="#/" onclick="visib('jmp')">Abstract</a> | [Draft][jmp] ]</small>
 
