@@ -7,7 +7,7 @@ author_profile: true
 
 **ECON 221: Introduction to Econometrics**. Undergraduate Course. Semester 1 2024, University of Auckland Department of Economics.<br/>
 
-**Business 115: Economics, Markets and Law**. Undergraduate Course. Semester 1 2024, University of Auckland Department of Economics.<br/>
+**Business 115: Economics, Markets and Law**. Undergraduate Course. Semester 1 2024, University of Auckland Business School.<br/>
 
 **ECON 59b: Economics of Education**. Undergraduate Course. Spring 2022, Brandeis University Department of Economics. *Instructor and Adjunct Professor*.<br/>
 
