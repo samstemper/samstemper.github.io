@@ -21,6 +21,23 @@ We study how large shocks impact individuals’ skilling decisions using data fr
 
 <span style="font-size: 1.2em; font-weight: bold;">Working Papers</span>
 
+**Trends in International Assessments and Outcomes in Adulthood**. *R&R at Economics of Education Review* <br/> <small>[ <a href="#/" onclick="visib('pisa_timss')">Abstract</a> | [Draft][pisa_timss] ]</small>
+
+<div id="pisa_timss" style="display: none; text-align: justify; line-height: 1.2" ><small>
+International assessments such as PISA and TIMSS are widely used to compare the academic proficiency of adolescents across countries and over time. Do scores on these assessments predict outcomes in adulthood? Combining data from PISA, TIMSS, PIAAC, and 18 representative global surveys, I study the relative predictive power of PISA and TIMSS scores among cohorts that took both tests during adolescence. Results suggest that cohorts with higher test scores perform better on assessments of adulthood skills, obtain higher levels of education, and have higher incomes as adults. I find suggestive evidence that PISA scores exhibit a relatively stronger relationship with education and income in adulthood compared to TIMSS scores.
+</small><br><br/></div>
+
+[pisa_timss]:{{ site.baseurl }}{% link files/pisa_timss.pdf %}
+
+**College Access and Notability in the United States**. *R&R at Regional Science and Urban Economics* <br/> <small>[ <a href="#/" onclick="visib('college_notability')">Abstract</a> | [Draft][college_notability] ]</small>
+
+<div id="pisa_timss" style="display: none; text-align: justify; line-height: 1.2" ><small>
+I use comprehensive geolocated data on prominent, famous, and influential Americans across various fields born throughout the 19th and 20th centuries to characterize the distribution and determinants of notability rates across the U.S. I combine this data with information on college site selection experiments—historical instances in which multiple candidate locations were considered as the sites of new colleges—to estimate the effect of college access on notability. Comparing notability rates in counties selected for a college to those in runner-up counties indicates that college placement generates a large, immediate, and persistent increase in notability rates. Analysis of biographical texts suggests that 20 to 40 percent of these effects are driven by college attendance.
+</small><br><br/></div>
+
+[college_notability]:{{ site.baseurl }}{% link files/college_notability.pdf %}
+
+
 **Doing More with Less: School Management and Education Production**. <br/> <small>[ <a href="#/" onclick="visib('jmp')">Abstract</a> | [Draft][jmp] ]</small>
 
 <div id="jmp" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -36,14 +53,6 @@ We study the impact of global expansions in mobile internet access between 2000 
 </small><br><br/></div>
 
 [3g_human_capital]:{{ site.baseurl }}{% link files/3g_human_capital.pdf %}
-
-**Trends in International Assessments and Outcomes in Adulthood**. *R&R at Economics of Education Review* <br/> <small>[ <a href="#/" onclick="visib('pisa_timss')">Abstract</a> | [Draft][pisa_timss] ]</small>
-
-<div id="pisa_timss" style="display: none; text-align: justify; line-height: 1.2" ><small>
-International assessments such as PISA and TIMSS are widely used to compare the academic proficiency of adolescents across countries and over time. Do scores on these assessments predict outcomes in adulthood? Combining data from PISA, TIMSS, PIAAC, and 18 representative global surveys, I study the relative predictive power of PISA and TIMSS scores among cohorts that took both tests during adolescence. Results suggest that cohorts with higher test scores perform better on assessments of adulthood skills, obtain higher levels of education, and have higher incomes as adults. I find suggestive evidence that PISA scores exhibit a relatively stronger relationship with education and income in adulthood compared to TIMSS scores.
-</small><br><br/></div>
-
-[pisa_timss]:{{ site.baseurl }}{% link files/pisa_timss.pdf %}
 
 **School Segregation, Student Achievement, and Parental Preferences**. <br/> <small>[ Draft Under Revision ]</small>
 
