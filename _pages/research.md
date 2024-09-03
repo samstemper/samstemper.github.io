@@ -37,7 +37,7 @@ We study the impact of global expansions in mobile internet access between 2000 
 
 [3g_human_capital]:{{ site.baseurl }}{% link files/3g_human_capital.pdf %}
 
-**Trends in International Assessments and Outcomes in Adulthood**. <br/> <small>[ <a href="#/" onclick="visib('pisa_timss')">Abstract</a> | [Draft][pisa_timss] ]</small>
+**Trends in International Assessments and Outcomes in Adulthood**. *R&R at Economics of Education Review* <br/> <small>[ <a href="#/" onclick="visib('pisa_timss')">Abstract</a> | [Draft][pisa_timss] ]</small>
 
 <div id="pisa_timss" style="display: none; text-align: justify; line-height: 1.2" ><small>
 International assessments such as PISA and TIMSS are widely used to compare the academic proficiency of adolescents across countries and over time. Do scores on these assessments predict outcomes in adulthood? Combining data from PISA, TIMSS, PIAAC, and 18 representative global surveys, I study the relative predictive power of PISA and TIMSS scores among cohorts that took both tests during adolescence. Results suggest that cohorts with higher test scores perform better on assessments of adulthood skills, obtain higher levels of education, and have higher incomes as adults. I find suggestive evidence that PISA scores exhibit a relatively stronger relationship with education and income in adulthood compared to TIMSS scores.
