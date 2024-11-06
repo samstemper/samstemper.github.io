@@ -1,4 +1,4 @@
----
+https://www.bostonglobe.com/2024/10/01/magazine/should-cellphones-be-allowed-in-schools/---
 layout: single
 title: "Research"
 permalink: /research/
@@ -46,7 +46,7 @@ The school superintendent is the highest-ranking executive in U.S. school distri
 
 [jmp]:{{ site.baseurl }}{% link files/stemper_jmp.pdf %}
 
-**3G Internet and Human Capital Development** (with [Ronak Jain](https://www.ronak-jain.com/home)). <br/> <small>[ <a href="#/" onclick="visib('3g_human_capital')">Abstract</a> | [Draft][3g_human_capital] ]</small>
+**3G Internet and Human Capital Development** (with [Ronak Jain](https://www.ronak-jain.com/home)). <br/> <small>[ <a href="#/" onclick="visib('3g_human_capital')">Abstract</a> | [Draft][3g_human_capital] | Media Coverage: [Boston Globe Magazine][https://www.bostonglobe.com/2024/10/01/magazine/should-cellphones-be-allowed-in-schools/], [1News][https://www.1news.co.nz/2024/01/26/study-reveals-impact-of-internet-on-student-test-results/]]</small>
 
 <div id="3g_human_capital" style="display: none; text-align: justify; line-height: 1.2" ><small>
 We study the impact of global expansions in mobile internet access between 2000 and 2018 on student outcomes. We link geospatial data on the rollout of 3G mobile technology with over 2 million student test scores from 82 countries. Our findings indicate that the introduction of 3G coverage leads to substantial increases in smartphone ownership and internet usage among adolescents. Moreover, changes in 3G coverage are associated with significant declines in test scores across all subjects, with magnitudes roughly equivalent to the loss of one-quarter of a year of learning. We find suggestive evidence that a reduction in feelings of belonging, ease of making friends, and self-efficacy may explain these impacts.
