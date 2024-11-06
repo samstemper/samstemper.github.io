@@ -1,4 +1,3 @@
-https://www.bostonglobe.com/2024/10/01/magazine/should-cellphones-be-allowed-in-schools/---
 layout: single
 title: "Research"
 permalink: /research/
