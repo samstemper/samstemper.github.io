@@ -1,9 +1,9 @@
+---
 layout: single
 title: "Research"
 permalink: /research/
 author_profile: true
 ---
-
 
 <span style="font-size: 1.2em; font-weight: bold;">Publications</span>
 
