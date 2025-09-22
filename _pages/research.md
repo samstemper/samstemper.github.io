@@ -18,15 +18,16 @@ We study how large shocks impact individuals’ skilling decisions using data fr
 
 [saudi_skills_nber]: https://www.nber.org/papers/w29921
 
-<span style="font-size: 1.2em; font-weight: bold;">Working Papers</span>
-
-**Trends in International Assessments and Outcomes in Adulthood**. <br/> *R&R at Economics of Education Review* <br/> <small>[ <a href="#/" onclick="visib('pisa_timss')">Abstract</a> | [Draft][pisa_timss] ]</small>
+**Trends in International Assessments and Outcomes in Adulthood**. <br/> *Forthcoming at Economics of Education Review* <br/> <small>[ <a href="#/" onclick="visib('pisa_timss')">Abstract</a> | [Draft][pisa_timss] | [Appendix][pisa_timss_appendix] ]</small>
 
 <div id="pisa_timss" style="display: none; text-align: justify; line-height: 1.2" ><small>
-International assessments such as PISA and TIMSS are widely used to compare the academic proficiency of adolescents across countries and over time. Do scores on these assessments predict outcomes in adulthood? Combining data from PISA, TIMSS, PIAAC, and 18 representative global surveys, I study the relative predictive power of PISA and TIMSS scores among cohorts that took both tests during adolescence. Results suggest that cohorts with higher test scores perform better on assessments of adulthood skills, obtain higher levels of education, and have higher incomes as adults. I find suggestive evidence that PISA scores exhibit a relatively stronger relationship with education and income in adulthood compared to TIMSS scores.
+International assessments such as PISA and TIMSS are widely used to compare the academic proficiency of adolescents across countries and over time. Are scores on these assessments associated with outcomes in adulthood? Combining data from mathematics scores in PISA, TIMSS, and PIAAC, and adulthood outcomes from 18 representative global surveys, I compare the relative associations of PISA and TIMSS scores with later outcomes among cohorts that took both tests during adolescence. Results suggest that cohorts with higher test scores perform better on assessments of adulthood skills, obtain higher levels of education, and have higher incomes as adults. I find suggestive evidence that PISA scores exhibit a relatively stronger relationship with education and income in adulthood compared to TIMSS scores.
 </small><br><br/></div>
 
 [pisa_timss]:{{ site.baseurl }}{% link files/pisa_timss.pdf %}
+[pisa_timss_appendix]:{{ site.baseurl }}{% link files/pisa_timss_appendix.pdf %}
+
+<span style="font-size: 1.2em; font-weight: bold;">Working Papers</span>
 
 **College Access and Notability in the United States**. <br/> *R&R at Regional Science and Urban Economics* <br/> <small>[ <a href="#/" onclick="visib('college_notability')">Abstract</a> | [Draft][college_notability] ]</small>
 
@@ -35,7 +36,6 @@ I use comprehensive geolocated data on prominent, famous, and influential Americ
 </small><br><br/></div>
 
 [college_notability]:{{ site.baseurl }}{% link files/college_notability.pdf %}
-
 
 **Doing More with Less: School Management and Education Production**. <br/> <small>[ <a href="#/" onclick="visib('jmp')">Abstract</a> | [Draft][jmp] ]</small>
 
